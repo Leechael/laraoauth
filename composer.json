@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Leechael\\Laraoauth\\": "src/"
+            "Leechael\\Laraoauth\\": "src/Leechael/Laraoauth/"
         }
     }
 }
