@@ -8,13 +8,13 @@
         }
     ],
     "require": {
-        "php": ">=5.4",
+        "php": ">=5.4.0",
         "ext-curl": "*",
         "lusitanian/oauth": "~0.3"
     },
     "autoload": {
-        "psr-0": {
-            "Leechael\\Laraoauth": "src/"
+        "psr-4": {
+            "Leechael\\Laraoauth\\": "src/"
         }
     }
 }
